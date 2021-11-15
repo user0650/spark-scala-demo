@@ -1,0 +1,32 @@
+# UDT 
+
+### 内置数据类型
+
+- BYTE
+- TINYINT
+- SHORT
+- SMALLINT
+- INT
+- INTEGER
+- LONG
+- BIGINT
+- FLOAT
+- REAL
+- DOUBLE
+- DECIMAL
+- DEC
+- NUMERIC
+- DATE
+- TIMESTAMP
+- INTERVAL
+- STRING
+- BINARY
+- BOOLEAN
+- ARRAY
+- STRUCT
+- MAP
+
+### 自定义数据类型
+
+- Person
+
