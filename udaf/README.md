@@ -18,7 +18,7 @@ spark.udf.registerJavaUDAF("collect_bf", "org.apache.spark.sql.udaf.CollectBloom
 - 首先，将scala/java编写的udaf打成jar包
 - 然后，启动pyspark时，指定jar包
 ```python
-pyspark --jars /Users/sunxiaopeng9/PycharmProjects/mpc-sdk/udaf.jar
+pyspark --jars /Users/xxx/udaf.jar
 ```
 - 最后，与scala中相同的方式使用即可
 ```python
